@@ -6,6 +6,7 @@
 # Стек
 * typescript v4
 * react v18
+* redux v4
 * axios v1
 * router-dom v6
 * jest
